@@ -260,3 +260,5 @@ Polybar accepts donations through [open collective](https://opencollective.com/p
 ## License
 
 Polybar is licensed under the MIT license. [See LICENSE for more information](https://github.com/polybar/polybar/blob/master/LICENSE).
+
+.
